@@ -71,8 +71,3 @@
 - 8.8 sqlite3<br>
 - 8.9 decimal<br>
 - 8.10 logging<br>
-## Appendix
-- A.1 コンピュータの基本<br>
-- A.2 Pythonのセットアップ<br>
-- A.3 用語集<br>
-- A.4 さらに学んでいくために<br>
