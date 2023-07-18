@@ -1,3 +1,3 @@
-with open("sanmple.txt", "r") as f:
+with open("sample.txt", "r") as f:
     line = f.readline()
     print(line)
